@@ -1,0 +1,24 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+/mnt/share/cern_CentOS7/Geant4-10.2.3-Linux/share/Geant4-10.2.3/geant4make
+Cern Root /cern/root/v6.08.06/
+AcquRoot /home/chris/acqu/acqu_user/
+GeantWorkDir /home/chris/a2geant/
+HaspectDir /home/chris/dglazier/github/HASPECT6/HaSpect/
+ analysing bin  Topo-0.50_BeamEnergy1290.00_Costh0.15_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_
+npcf08
+/w/work1/home/chris/LatestAnalysisRuns/Data/DataJul17/HaspectOutput/Fitting/All13Binned20FilesCUTSNeutronAllAuxInvMassBeamEnergy10Costh20PolNeg
+total 192K
+-rw-r--r-- 1 chris users  24K Aug  2 19:05 FarmTopo-0.50_BeamEnergy1290.00_Costh0.15_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_.log
+drwxr-xr-x 2 chris users 4.0K Aug  2 19:05 hsana
+-rw-r--r-- 1 chris users  56K Aug  2 19:05 ResultsTopo-0.50_BeamEnergy1290.00_Costh0.15_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_.root
+-rw-r--r-- 1 chris users 107K Aug  2 19:05 WeightsTopo-0.50_BeamEnergy1290.00_Costh0.15_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_.root
+all done and tidied up
+total 28K
+drwxr-xr-x 3 chris users 4.0K Aug  2 19:04 Topo-0.50_BeamEnergy1290.00_Costh0.55_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_
+drwxr-xr-x 3 chris users 4.0K Aug  1 14:41 Topo0.50_BeamEnergy310.00_Costh-0.55_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_
+drwxr-xr-x 3 chris users 4.0K Aug  1 15:17 Topo0.50_BeamEnergy450.00_Costh-0.45_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_
+drwxr-xr-x 3 chris users 4.0K Aug  1 13:49 Topo0.50_BeamEnergy450.00_Costh0.75_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_
+drwxr-xr-x 3 chris users 4.0K Aug  1 15:22 Topo0.50_BeamEnergy450.00_Costh-0.85_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_
+drwxr-xr-x 3 chris users 4.0K Aug  1 15:24 Topo0.50_BeamEnergy590.00_Costh0.55_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_
+drwxr-xr-x 3 chris users 4.0K Aug  1 16:34 Topo0.50_BeamEnergy870.00_Costh-0.65_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_

@@ -1,0 +1,21 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+/mnt/share/cern_CentOS7/Geant4-10.2.3-Linux/share/Geant4-10.2.3/geant4make
+Cern Root /cern/root/v6.08.06/
+AcquRoot /home/chris/acqu/acqu_user/
+GeantWorkDir /home/chris/a2geant/
+HaspectDir /home/chris/Docs/haspy/LatestFitting/Jan8th2017/HASPECT6/HaSpect/
+ analysing bin  Topo0.50_BeamEnergy1150.00_Costh0.85_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_
+npcf04
+/w/work1/home/chris/LatestAnalysisRuns/Data/DataJul17/HaspectOutput/Fitting/All13Binned20FilesCUTSProtonAllAuxInvMassBeamEnergy10Costh20PolNeg
+total 156K
+-rw-r--r-- 1 chris users  27K Jul  3 15:56 FarmTopo0.50_BeamEnergy1150.00_Costh0.85_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_.log
+drwxr-xr-x 2 chris users 4.0K Jul  3 15:56 hsana
+-rw-r--r-- 1 chris users 109K Jul  3 15:56 ResultsTopo0.50_BeamEnergy1150.00_Costh0.85_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_.root
+-rw-r--r-- 1 chris users  10K Jul  3 15:56 WeightsTopo0.50_BeamEnergy1150.00_Costh0.85_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_Coplanarity0.00_MissMass2355.00_ConeAngle0.50_InvMass140.00_.root
+all done and tidied up
+total 16K
+drwxr-xr-x 3 chris users 4.0K Jul  3 14:06 Topo0.50_BeamEnergy1010.00_Costh0.65_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_
+drwxr-xr-x 3 chris users 4.0K Jul  3 14:06 Topo0.50_BeamEnergy1010.00_Costh0.75_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_
+drwxr-xr-x 3 chris users 4.0K Jul  3 14:07 Topo0.50_BeamEnergy1010.00_Costh0.95_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_
+drwxr-xr-x 3 chris users 4.0K Jul  3 14:07 Topo0.50_BeamEnergy1150.00_Costh-0.95_DCorrect0.50_AnyErrs0.00_PolStateD-0.50_
